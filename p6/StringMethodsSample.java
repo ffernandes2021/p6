@@ -270,8 +270,6 @@ public class StringMethodsSample {
 	String city = "MancHESteR".toLowerCase();
 	System.out.println(city); // Imprime o valor "manchester"
 	
-	// toString
-	
 	// toUpperCase
 	
 	System.out.println("MancHESteR".toUpperCase()); // Imprime o valor "MANCHESTER"
